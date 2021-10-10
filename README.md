@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @tbson (Son Tran)
 - 👀 I’m interested in software design, software architecture
-- 🌱 I’m currently learning software architecture
 - 💞️ I’m looking to collaborate on designing software
 - 📫 How to reach me: mail@tbson.info, +84906696527
 
